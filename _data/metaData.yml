@@ -1,0 +1,8 @@
+author: infrastructure.holdings CEO
+avatar_url: assets/img/avatar.png
+lightTheme: False
+show_menu_logo_on_home_page: True
+cookies:
+  enabled: True
+  message: This site might be using cookies but we respect your privacy and never share anything with anyone, ever!
+  agreeButtonText: Agree
