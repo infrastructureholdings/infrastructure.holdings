@@ -2,6 +2,6 @@
 layout: home
 title: infrastructure.holdings
 #summary: "DBAs: goat.systems, equity.insure, nosql.host"
-summary: Thank You for your interest!
+summary: 307-205-5665
 category: home
 ---
