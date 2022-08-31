@@ -13,7 +13,7 @@ menu_pages:
   category: home
 
 - title: Members
-  url: /category-1.html
+  url: /members.html
   show_on_home: True
   image_url: assets/img/members.jpg
   icon_name: fas fa-dice
@@ -22,12 +22,12 @@ menu_pages:
   description: Backend for Members
 
 - title: Clients and Investors
-  url: /category-2.html
+  url: /clients.html
   show_on_home: True
   image_url: assets/img/clients.jpg
   icon_name: fas fa-cogs
   category: category-2
-  tooltip: This is category 2
+  tooltip: Clients and Investors
   description: Info for Clients and Investors
 
 - title: About
